@@ -1,4 +1,4 @@
 # cursohtlmcss
 Projeto Curso HTML e CSS
 
-Projeto para aprendizado de HTML e CSS.
+Desenvolvimento com finalidade de aprendizado em HTML e CSS.
